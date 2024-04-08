@@ -1,2 +1,2 @@
-# built_basic_transformer
-This repo contains a basic transformer implementation
+## This repo contains:
+- [ ] A notebook of a basic transformer architecture built from scratch.
